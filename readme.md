@@ -2,10 +2,6 @@
 
 식물의 잎 사진을 입력 받아 15가지의 질병 혹은 건강 상태를 분류하는 딥러닝 기반 이미지 분류 프로젝트입니다.
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Tomato_blight.jpg/640px-Tomato_blight.jpg" width="500"/>
-</p>
-
 ---
 
 ## 📂 Dataset
